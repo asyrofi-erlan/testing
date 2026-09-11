@@ -1,0 +1,6 @@
+# Test file to verify SealSuite DLP rule
+API_KEY_IDENTIFIER = "AIzaSyA1_ExampleKeyHere_Xyz789"
+STRIPE_SECRET_KEY = "sk_live_51NxExampleStripeKey999XYZ"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+sensitive_private_key = "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7..."
+
